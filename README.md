@@ -27,3 +27,18 @@ Here you can play multiple **HTML5 games** directly in your browser. 🚀
      "thumbnail": "images/my-new-thumb.png",
      "path": "games/my-new-game/index.html"
    }
+
+---
+
+⚡ Bas isme `https://your-username.github.io/my-gaming-site/` ko apne GitHub username se replace kar dena.  
+
+---
+
+Bhai, kya aap chahte ho mai ye **README.md file ko ready ZIP** me add karke aapko dobara de du taaki direct upload kar sako?
+
+
+
+
+
+
+
